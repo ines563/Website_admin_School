@@ -1,2 +1,3 @@
 # Website_admin_School
- peremet de ajouter un  eleve ou supprimer ou modifier les informations  aussi peut consulter la liste des eleves 
+ permet d'ajouter un  eleve ou supprimer ou modifier les informations  aussi peut consulter la liste des eleves 
+ vous ajoutez, mettez à jour, affichez et supprimez des étudiants. Également avec une fonction de recherche 
